@@ -1,2 +1,6 @@
-Transportation,Electricity,Industry,Agriculture,Commercial,Residential
-0.005848261,-0.25423656,0.002869986,0.042254338,0.070181433,0.032275718
+Transportation,0.005848261
+Electricity,-0.25423656
+Industry,0.002869986
+Agriculture,0.042254338
+Commercial,0.070181433
+Residential,0.032275718
